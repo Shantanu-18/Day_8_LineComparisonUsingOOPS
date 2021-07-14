@@ -35,7 +35,7 @@ namespace LineCompUsingOOPS
         {
             length1 = Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2));
             length2 = Math.Sqrt(Math.Pow((a2 - a1), 2) + Math.Pow((b2 - b1), 2));
-            Console.WriteLine("L1 " + length1 + " L2 " + length2);
+            //Console.WriteLine("L1 " + length1 + " L2 " + length2);                    //For Checking
         }
 
 
